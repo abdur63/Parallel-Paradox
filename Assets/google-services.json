@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1047996859949",
+    "project_id": "parallel-paradox",
+    "storage_bucket": "parallel-paradox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047996859949:android:4211960b64bb73fcd05aa4",
+        "android_client_info": {
+          "package_name": "com.solosuit.parallelparadox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047996859949-6c9d9dn1rpd7snp1tf0shnp9puh8k3ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIqk2F1w4lfxEVLNkjKT9m5DhLAktSOac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047996859949-6c9d9dn1rpd7snp1tf0shnp9puh8k3ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
